@@ -164,3 +164,21 @@ section{
     text-align: center;
     margin-top: 20px;
 }
+/* connect style */
+.connect{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding:130px 200px;
+}
+.connect .section-title{
+    text-align: left;
+}
+.connect input[type="text"],input[type="email"], textarea{
+    margin-bottom: 30px;
+    width: 100%;
+    padding: 18px 30px;
+}
+.connect a{
+    text-decoration: none;
+}
