@@ -174,7 +174,7 @@ section{
 .connect .section-title{
     text-align: left;
 }
-.connect input[type="text"],input[type="email"], textarea{
+.connect , textarea{
     margin-bottom: 30px;
     width: 100%;
     padding: 18px 30px;
